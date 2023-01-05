@@ -1,29 +1,32 @@
-# vue-temp
+# kaza Vue3 + Element Plus + Element icon
 
-This template should help get you started developing with Vue 3 in Vite.
+## 新建一个仓库 最下面选择import code
 
-## Recommended IDE Setup
+地址
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+```sh
+https://github.com/kazawan/vue-template.git
+```
 
-## Customize configuration
+## 然后再自己的仓库
+```sh
+git clone [your git repository]
+```
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
+## cd [your project directory]
 
 ```sh
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+and
+```sh
+npm start
+```
 
+or
 ```sh
 npm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
-```
