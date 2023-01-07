@@ -1,4 +1,4 @@
-# kaza Vue3 + Element Plus + Element icon
+# kaza Vue3 + Element Plus + Element icon V1.1.1
 
 ## 新建一个仓库 最下面选择import code
 
