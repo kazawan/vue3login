@@ -1,5 +1,7 @@
 # kaza Vue3 + Element Plus + Element icon V1.1.1
 
+*20230107 更新Element plus icon 按需引入
+
 ## 新建一个仓库 最下面选择import code
 
 地址
