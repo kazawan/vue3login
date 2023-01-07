@@ -16,6 +16,12 @@ git clone [your git repository]
 ```
 
 ## cd [your project directory]
+```
+git remote rm origin
+git remote add [你的仓库]
+git push
+```
+
 
 ```sh
 npm install
